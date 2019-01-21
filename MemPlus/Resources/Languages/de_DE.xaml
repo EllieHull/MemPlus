@@ -102,11 +102,11 @@
     <system:String x:Key="Minutes">Minuten</system:String>
     <system:String x:Key="Hours">Stunden</system:String>
     <system:String x:Key="RamOptimizer">RAM Optimierer</system:String>
-    <system:String x:Key="OptimizeWhenExceeds">Optimiere wenn RAM gebrach überschritten wird</system:String>
-    <system:String x:Key="OptimizeAfter">Optimiere danach</system:String>
+    <system:String x:Key="OptimizeWhenExceeds">Optimieren wenn RAM gebrauch überschritten wird ab</system:String>
+    <system:String x:Key="OptimizeAfter">Optimieren nach</system:String>
     <system:String x:Key="Options">Optionen</system:String>
     <system:String x:Key="ClearMemoryOnStartup">Speicher beim Starten der Anwendung löschen</system:String>
-    <system:String x:Key="DragDropClear">den Speicher beim drag and drop löschen</system:String>
+    <system:String x:Key="DragDropClear">Speicher beim drag and drop löschen</system:String>
     <system:String x:Key="ClearStandByCache">Ruhezustand cache löschen</system:String>
     <system:String x:Key="ClearClipboard">Zwischenablagedaten löschen</system:String>
     <system:String x:Key="Hotkey">Hotkey:</system:String>
